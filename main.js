@@ -86,6 +86,6 @@ function info()
 
 {
 
-    alert("World HEART day!\n\nA mathematically created ��.\n\nBy Mayank Rajput");
+    alert("World HEART day!\n\nA mathematically created ❤️’“.\n\nBy Mayank Rajput");
 
 }
